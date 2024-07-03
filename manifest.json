@@ -1,0 +1,9 @@
+{
+    "id": "partial-title-linker",
+    "name": "Partial Title Linker",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Suggests links based on partial title matches without requiring the [[ syntax.",
+    "author": "Your Name",
+    "isDesktopOnly": false
+}
